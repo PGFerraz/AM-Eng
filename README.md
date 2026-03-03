@@ -1,2 +1,2 @@
 # AM-Eng
-A command-line chat interface for a llm, desinigned to ask questions  about computer science and engineering.
+A command-line chat interface for a llm, desinigned to ask questions  about computer science and engineering. desinigned to ask questions  about computer science and engineering. It was created and trained with a standard GPU-equipped (6GB VRAM or more) home computer in mind. In the future it will be trained with aditional databases,for a better comprehension of the subjects. I will also comment every step of the code, so it can be easily understood and modified by anyone.
